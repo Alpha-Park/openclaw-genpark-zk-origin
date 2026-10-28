@@ -1,0 +1,15 @@
+{
+  "name": "openclaw-genpark-zk-origin",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark ZK Origin - Zero-Knowledge data provenance and cryptographic Merkle tree state transition verification engine.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "openclaw",
+    "zk-origin",
+    "merkle-tree",
+    "data-provenance",
+    "mcp"
+  ]
+}
